@@ -1,3 +1,3 @@
 # GitTest
 
-Learing to use Git
+Learning to use Git
