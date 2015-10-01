@@ -1,0 +1,1 @@
+var footy = angular.module('footy',[]);
